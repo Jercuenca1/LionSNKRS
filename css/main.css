@@ -20,3 +20,73 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%; }
+
+@media only screen and (min-width: 768px) {
+  .cardss {
+    margin-left: 200px !important;
+    margin-bottom: 250px !important;
+    margin-top: 50px !important; }
+  .containerunite {
+    margin-top: 200px !important;
+    font-size: 20px;
+    text-align: center; }
+  #nombre {
+    height: 30px !important;
+    width: 300px !important;
+    margin-left: 12.7cm;
+    text-align: center; }
+  #email {
+    height: 30px !important;
+    width: 300px !important;
+    margin-left: 12.7cm;
+    text-align: center; }
+  #tel {
+    height: 30px !important;
+    width: 300px !important;
+    margin-left: 12.7cm;
+    text-align: center; }
+  #preferenciass {
+    height: 30px !important;
+    width: 300px !important;
+    margin-left: 12.7cm;
+    text-align: center; }
+  .formEstilo {
+    font-size: 20px;
+    text-align: center; }
+  label {
+    text-align: center; }
+  .botonesenviarcancelar {
+    height: 35px;
+    width: 100px; }
+  .carousel-caption {
+    position: static !important; }
+  .btn {
+    text-align: center;
+    margin-left: 65px !important; }
+  .cardssnkrs {
+    margin-bottom: 250px !important;
+    margin-left: 200px !important;
+    margin-top: 50px !important; }
+  .btn-primary {
+    background-color: #210777 !important; } }
+
+/* Vista Mobile */
+@media only screen and (max-width: 600px) {
+  .cardssnkrs {
+    margin-top: 30px;
+    margin-bottom: 400px;
+    margin-left: 20px; }
+  .carddistancia {
+    margin-bottom: 25px;
+    text-align: center; }
+  .distanciacarousel {
+    margin-top: 100px !important; }
+  .carousel-caption {
+    position: static !important; }
+  .nav-link {
+    text-align: center !important; }
+  .containerunite {
+    margin-bottom: 350px;
+    text-align: center; }
+  .btn-primary {
+    background-color: #210777 !important; } }
