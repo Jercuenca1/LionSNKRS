@@ -61,14 +61,39 @@ footer {
   .carousel-caption {
     position: static !important; }
   .btn {
-    text-align: center;
-    margin-left: 65px !important; }
+    margin-right: 4px !important; }
   .cardssnkrs {
     margin-bottom: 250px !important;
     margin-left: 200px !important;
     margin-top: 50px !important; }
   .btn-primary {
-    background-color: #210777 !important; } }
+    background-color: #210777 !important; }
+  .cardtext {
+    text-align: center; }
+  .imgprincipal {
+    width: 100%;
+    margin-top: 110px; }
+  .coleccionesmain {
+    margin-top: 130px;
+    margin-bottom: 250px; }
+  .imgcolecciones {
+    width: 1850px;
+    height: 700px;
+    margin-top: 25px; }
+  main section article h1 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 35px;
+    text-shadow: 3px 2px 7px;
+    margin-top: 150px; }
+  main section article h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 45px; }
+  .btncolecciones {
+    margin-left: 835px; } }
 
 /* Vista Mobile */
 @media only screen and (max-width: 600px) {
@@ -89,4 +114,6 @@ footer {
     margin-bottom: 350px;
     text-align: center; }
   .btn-primary {
-    background-color: #210777 !important; } }
+    background-color: #210777 !important; }
+  .imgsnkrs {
+    margin-top: 110px; } }
