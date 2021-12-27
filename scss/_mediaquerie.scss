@@ -57,6 +57,7 @@
         margin-left: 200px !important;
         margin-top: 50px !important;
     }
+   
     .btn-primary{
         background-color: rgb(33, 7, 119) !important;
 
@@ -103,9 +104,58 @@
         margin-left: 835px;
     }
 
+    #cardsindumentaria{
+        margin-top: 150px !important ;
+    }
 
     
+    .estiloh2ind{
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 35px;
+        text-shadow: 3px 2px 7px;
+        text-align: center;
+        margin-top: 20px;
     }
+    
+
+    .estiloh3ind{
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 25px;
+        text-shadow: 3px 2px 7px;
+        margin-left: 5px;
+        margin-top: 20px;
+        margin-bottom:20px;
+    }
+
+    .imgsobrenosotros{
+        margin-top:110px;
+        margin-left:80px;
+    }
+
+    .textpoliticas{
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .textpoliticas2{
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom:10px;
+        font-weight:bold;
+    }
+
+    .articlepoliticas{
+        margin-bottom: 250px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+
+}
+
 
     
     /* Vista Mobile */
@@ -115,7 +165,7 @@
         .cardssnkrs{
             margin-top: 30px;
             margin-bottom: 400px;
-            margin-left: 20px;
+            margin-left: 50px;
         }
 
         .carddistancia{
@@ -134,6 +184,7 @@
         }
 
         .containerunite{
+            margin-top: 120px;
             margin-bottom: 350px;
             text-align: center;
         }
@@ -146,7 +197,51 @@
             margin-top: 110px;
         }
 
+        .coleccionesmain {
+            margin-top: 130px;
+            margin-bottom: 350px; 
+        }
+        .imgcolecciones {
+            width: 750px;
+            height: 170px;
+            margin-top: 25px; 
+        }
 
+        main section article h1 {
+            font-weight: 400;
+            text-transform: uppercase;
+            font-size: 25px;
+            text-shadow: 3px 2px 7px;
+            margin-top: 10px;
+        }
+        
+        main section article h2 {
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-top: 10px;
+            font-size: 30px; 
+        }
+
+        .btncolecciones {
+            margin-left: 120px; 
+        
+        }
+
+        .imgsobrenosotros{
+            width: 750px;
+            height: 80px;
+            margin-top:100px;
+            margin-right: 10px;
+            margin-left: 0px;
+        
+        }
+
+        .articlepoliticas{
+            margin-bottom: 350px;
+            margin-left: 25px;
+            margin-right:25px;
+        }
 
 
 
